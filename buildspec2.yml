@@ -16,7 +16,7 @@ phases:
   build:
     commands:
       - echo Building index.html...
-      - cp 1.html output2.html  # Replace with your desired output filename
+      - cp 2.html output2.html  # Replace with your desired output filename
 
 artifacts:
   files:
